@@ -8,12 +8,12 @@ This movie analyser app has been built with react. Some modules that were used a
 <li>match-sorter</li>
 <li>react-toggle</li>
 
-In budget filter, the filering is based on the value/money (>= search value).
-In others, we're trying to match substring.
+In the budget filter, the filtering is based on the value/money (>= search value).
+In others, we're trying to match the substring.
 
 Two themes have been provided for accessibility.
 
-### Please run https://cors-anywhere.herokuapp.com/ before starting app, since proxy has been used to bypass CORS from the client side.
+### Please run https://cors-anywhere.herokuapp.com/ before starting the app, since proxy has been used to bypass CORS from the client side.
 
 ## Available Scripts
 
@@ -21,7 +21,7 @@ In the project directory, you can run:
 
 ### `npm install`
 
-To get the node-modules
+To get the dependencies
 
 ### `npm start`
 
